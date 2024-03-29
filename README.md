@@ -1,4 +1,4 @@
-#Testiamo la base dati
+# Testiamo la base dati
 - scrivi una applicazione web Spring Boot con le dipendenze neccessarie che:
     - crea un mock della base dati usando `h2` che ha `username`:`testdb` e `password`:`psw1234`
     - crea la tabella `students` dove ogni studente avrà:
